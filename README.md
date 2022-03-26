@@ -1,7 +1,7 @@
 # swanson-quote-quiz
 <h2>Link To Website</h2>
 
-<a href= "https://rachelgray7448.github.io/swanson-quote-quiz/">https://rachelgray7448.github.io/swanson-quote-quiz/</a>
+<a href= "https://rachelgray7448.github.io/swanson-quote-quiz/">https://brian-000.github.io/swanson-quote-quiz/</a>
 
 <h2>Description</h2>
 
